@@ -1,0 +1,29 @@
+html {
+  text-align: center;
+  width: 70vw;
+  margin: auto;
+  background-color: #3a98b9;
+}
+section article {
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.historyArticle {
+  text-align: left;
+  line-height: 1.5rem;
+}
+
+.historyArticle p {
+  font-size: 1.2rem;
+}
+
+.pointsOfInterestSection article {
+  font-size: 1.1rem;
+  text-align: left;
+}
+
+.favoriteFood article {
+  text-align: left;
+  font-size: 1.1rem;
+}
